@@ -20,7 +20,7 @@ Ce qui m'intéresse, c'est l'architecture. Comment les parties d'un système com
 - **Je vais jusqu'à la mise en ligne.** Mon portfolio est hébergé sur Clever Cloud, l'application de l'atelier TODO sur Scalingo.
 - **J'écris ce qui manque.** Chaque projet documente son installation, et ses limites connues quand il en a.
 
-## Projets
+## Projets personnels
 
 ### [Aether](https://github.com/NardenLaSouris/aether) · poste de travail pour Claude Code
 
@@ -34,7 +34,24 @@ Une application de bureau Windows qui pilote Claude Code, installé sur la machi
 
 **État :** en développement (v0.2.0), Windows uniquement.
 
-### [Forum-Project](https://github.com/NardenLaSouris/Forum-Project) · forum web en équipe
+### [portfolio-](https://github.com/NardenLaSouris/portfolio-) · mon portfolio
+
+Mon site, écrit en HTML, CSS et JavaScript sans framework et servi par un petit serveur Node.js sans aucune dépendance. Thème clair et sombre, filtres de projets, et les dépôts GitHub publics chargés automatiquement.
+
+`HTML` `CSS` `JavaScript` `Node.js` `Clever Cloud`
+
+**État :** [en ligne](https://app-25fa744b-25eb-4ea0-9d7e-88fe870d5552.cleverapps.io), mis à jour au fil des projets.
+
+### Et aussi
+
+- **Skills pour agents IA** · j'écris des skills pour des agents comme Claude Code : des instructions et des scripts qu'un agent charge pour mener une tâche précise de la même façon à chaque fois.
+- **ORION** · assistant vocal qui tourne entièrement sur mes machines, sans service cloud. Dépôt privé, présenté sur [mon portfolio](https://app-25fa744b-25eb-4ea0-9d7e-88fe870d5552.cleverapps.io/orion.html).
+
+## Projets de formation
+
+Réalisés pendant ma formation en développement, seul ou en équipe.
+
+### [Forum-Project](https://github.com/NardenLaSouris/Forum-Project) · forum web
 
 Un forum inspiré de Reddit, réalisé en équipe : comptes et sessions, publications par catégories, commentaires, likes et dislikes.
 
@@ -46,7 +63,7 @@ Un forum inspiré de Reddit, réalisé en équipe : comptes et sessions, publica
 
 **État :** terminé.
 
-### [Projet_RPG_TypeScript](https://github.com/NardenLaSouris/Projet_RPG_TypeScript) · RPG en équipe
+### [Projet_RPG_TypeScript](https://github.com/NardenLaSouris/Projet_RPG_TypeScript) · jeu de rôle
 
 Un jeu de rôle au tour par tour dans le terminal, à trois. On compose une équipe de trois aventuriers parmi six classes, on traverse cinq salles et on affronte un boss.
 
@@ -57,19 +74,14 @@ Un jeu de rôle au tour par tour dans le terminal, à trois. On compose une équ
 
 **État :** terminé.
 
-### Skills pour agents IA
+### Autres
 
-J'écris aussi des skills pour agents IA comme Claude Code : des instructions et des scripts qu'un agent charge pour mener une tâche précise de la même façon à chaque fois.
-
-### Autres projets
-
-- [**portfolio-**](https://github.com/NardenLaSouris/portfolio-) · mon portfolio : HTML, CSS et JavaScript sans framework, servi par un petit serveur Node.js sans dépendance.
 - [**Hangman-classic**](https://github.com/NardenLaSouris/Hangman-classic) · pendu en Go organisé en paquets : difficultés, codes de triche, mode deux joueurs.
 - [**Projet-red**](https://github.com/NardenLaSouris/Projet-red) · jeu de rôle en Go dans le terminal : classes, marché, forgeron, combats.
 - [**GalaxiEat**](https://github.com/NardenLaSouris/GalaxiEat) · base de données SQL d'une chaîne de restaurants, de la modélisation aux requêtes d'analyse.
 - [**ATELIER TODO App**](https://github.com/NardenLaSouris/ATELIER-FIL-CONDUCTEUR---TODO-APP) · atelier de déploiement en binôme : serveur Express, connexion PostgreSQL, mise en ligne sur Scalingo.
-- **ORION** · assistant vocal qui tourne entièrement sur mes machines, sans service cloud. Dépôt privé, présenté sur [mon portfolio](https://app-25fa744b-25eb-4ea0-9d7e-88fe870d5552.cleverapps.io/orion.html).
-- Mes premiers programmes en Python : [Puissance 4](https://github.com/NardenLaSouris/connect-4-python), [solveur de Sudoku](https://github.com/NardenLaSouris/Sudoku-Solver-Python), [pendu](https://github.com/NardenLaSouris/Hangman-Python). Et mes exercices d'algorithmique en Go : [Piscine Go](https://github.com/NardenLaSouris/Piscine-go-nantes-2526).
+- [**Piscine Go**](https://github.com/NardenLaSouris/Piscine-go-nantes-2526) · mes exercices d'algorithmique en Go.
+- Mes premiers programmes en Python, au lycée : [Puissance 4](https://github.com/NardenLaSouris/connect-4-python), [solveur de Sudoku](https://github.com/NardenLaSouris/Sudoku-Solver-Python), [pendu](https://github.com/NardenLaSouris/Hangman-Python).
 
 ## Technologies
 
