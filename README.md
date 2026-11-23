@@ -38,7 +38,7 @@ Assistante vocale **100 % locale**, répartie sur trois machines de mon réseau 
 | [**Forum-Project**](https://github.com/NardenLaSouris/Forum-Project) | Forum inspiré de Reddit, en équipe : comptes, publications, commentaires, votes | Go · SQLite |
 | [**ATELIER TODO App**](https://github.com/NardenLaSouris/ATELIER-FIL-CONDUCTEUR---TODO-APP) | Application TODO en binôme, déployée en continu sur Scalingo | JavaScript · Express · SQL |
 | [**Projet_RPG_TypeScript**](https://github.com/NardenLaSouris/Projet_RPG_TypeScript) | RPG au tour par tour en équipe : 3 aventuriers, un donjon de 5 salles, un boss final | TypeScript · Deno |
-| [**AI-LOCAL-MODEL**](https://github.com/NardenLaSouris/AI-LOCAL-MODEL) | Questions-réponses sur un document, entièrement en local (RAG) | Python · FAISS · Ollama |
+| **AI-LOCAL-MODEL** | Questions-réponses sur un document, entièrement en local (RAG) — *dépôt privé* | Python · FAISS · Ollama |
 | [**Hangman-classic**](https://github.com/NardenLaSouris/Hangman-classic) | Pendu dans le terminal : difficultés, codes de triche, mode deux joueurs | Go |
 | [**GalaxiEat**](https://github.com/NardenLaSouris/GalaxiEat) | Base de données d'une chaîne de restaurants intergalactiques | SQL · SQLite |
 | [**Sudoku-Solver-Python**](https://github.com/NardenLaSouris/Sudoku-Solver-Python) | Solveur de Sudoku par retour sur trace | Python |
