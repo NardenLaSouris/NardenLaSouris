@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/avatar.jpg" alt="Narden" width="150" />
-
 # Jules Neveu
 
 **Développeur à Nantes** · web full-stack, API, IA locale et outils en ligne de commande
